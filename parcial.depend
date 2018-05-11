@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1525995642 source:d:\santos\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1525990710 d:\santos\parcial\utn.h
+
+1525990710 source:d:\santos\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525995344 source:d:\santos\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+
+1525995662 d:\santos\parcial\publicacion.h
+
+1525995741 source:d:\santos\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1525993852 d:\santos\parcial\cliente.h
+
